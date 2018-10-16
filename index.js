@@ -12,3 +12,5 @@ for (let i = 0; i < 3; i++) {
 }
  
 element.appendChild(ul)
+element.innerHTML = 'Hello, DOM!'
+element.style.backgroundColor = '#ff0090';
